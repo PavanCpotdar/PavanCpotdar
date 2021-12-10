@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PavanCpotdar
 - 👀 I’m interested in ...Frontend Development
-- 🌱 I’m currently learning ...html,css,js,sql
+- 🌱 I’m worked on ...html,css,java-script,sql,Bootstrap, React JS
 - 💞️ I’m looking to collaborate on ...WEB making 
 - 📫 How to reach me ...github
 
